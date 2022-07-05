@@ -21,7 +21,7 @@
 title: Blunder
 email: nrupsis@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Learning Blender Core development the hard way, and teaching it the easy way.
+  Learning Blender Core development the hard way, and teaching the easy way.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blunder.training/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: nrupsis
