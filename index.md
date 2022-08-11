@@ -9,7 +9,7 @@ layout: default
 
 _Learning things the hard way, and teaching the easy way._
 
-I absolutely love Blender. I started learning blender as a 13 year of kid, and over a decade later, I'm absolutely floored at how far this project has come. All of which, is thanks to everyone developing it. However, jumping in, and contributing to an open source project is no small feat, and Blender is certainly no exception. So I've decided to do my best to compile all of my learnings, and blunders as I continue to contribute. Hopefully it'll make thingsa little easier for you 😊
+I absolutely love Blender. I started learning blender as a 13 year of kid, and over a decade later, I'm absolutely floored at how far this project has come. All of which, is thanks to everyone developing it. However, jumping in, and contributing to an open source project is no small feat, and Blender is certainly no exception. So I've decided to do my best to compile all of my learnings and _blunders_ as I continue to contribute. Hopefully it'll make things a little easier for you 😊
 
 ## Getting Started
 
