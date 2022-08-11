@@ -19,3 +19,4 @@ Some things that might be helpful
 
 - [My VS Code configuration](https://gist.github.com/rupsis/55f7b182349924de4eb95e68735fca95)
 - [Live development session](https://www.youtube.com/watch?v=P9yeMrtA_rY)
+- [C learning resources](/_posts/2022-08-11-c-learning-resources.md)
