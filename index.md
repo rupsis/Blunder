@@ -20,3 +20,11 @@ Some things that might be helpful
 - [My VS Code configuration](https://gist.github.com/rupsis/55f7b182349924de4eb95e68735fca95)
 - [Live development session](https://www.youtube.com/watch?v=P9yeMrtA_rY)
 - [C learning resources](/_posts/2022-08-11-c-learning-resources.md)
+
+## Need Help?
+
+My goal is to help as much as possible. Feel free to:
+
+- [Create an issue](https://github.com/rupsis/Blunder/issues) on this repository/website
+- Find me on [Blender Chat](https://blender.chat/), @Nathaniel-Rupsis
+- Find me on [Twitter](https://twitter.com/nrupsis)
