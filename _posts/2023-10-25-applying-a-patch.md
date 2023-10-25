@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Creating / Applying a Diff / Patch
-date: 2023-10-24 19:46 -0400
+title: Applying a Patch
+date: 2023-10-25 16:17 -0400
 ---
 
 
