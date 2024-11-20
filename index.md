@@ -26,5 +26,5 @@ Some things that might be helpful
 My goal is to help as much as possible. Feel free to:
 
 - [Create an issue](https://github.com/rupsis/Blunder/issues) on this repository/website
-- Find me on [Blender Chat](https://blender.chat/), @Nathaniel-Rupsis
+- Find me on [Blender Chat](https://chat.blender.org/), @nate-rupsis
 - Find me on [Twitter](https://twitter.com/nrupsis)
